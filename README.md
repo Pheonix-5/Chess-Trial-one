@@ -4,8 +4,8 @@ Chess but 3D, Currently under work
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Contributors
+Contributors <br>
 Akshay Sharma - [https://github.com/Pheonix-5]  <br>
-Love Tomer - [https://github.com/love20026543]
-Geetika Sharma - [https://github.com/Geetika-29]
-Harsh Chauhan - [https://github.com/harshchauhan02002com]
+Love Tomer - [https://github.com/love20026543]  <br>
+Geetika Sharma - [https://github.com/Geetika-29] <br>
+Harsh Chauhan - [https://github.com/harshchauhan02002com] <br>
